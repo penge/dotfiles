@@ -1,0 +1,14 @@
+# Backup files
+*~
+
+
+# Vim swap files
+*.sw?
+
+
+# MacOS dir files 
+.DS_Store
+
+
+# Any .out files
+*.out
