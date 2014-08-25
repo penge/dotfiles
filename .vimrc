@@ -16,3 +16,7 @@ set shiftwidth=2
 
 " Automatically inserts one extra level of indentation in some cases
 set smartindent
+
+
+" Highlight all search matches
+set hlsearch
