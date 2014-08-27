@@ -20,3 +20,9 @@ set smartindent
 
 " Highlight all search matches
 set hlsearch
+
+
+" No backup and swap files
+set nobackup
+set nowritebackup
+set noswapfile
