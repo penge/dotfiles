@@ -41,3 +41,8 @@ set hlsearch
 set nobackup
 set nowritebackup
 set noswapfile
+
+
+" Color scheme
+syntax on
+colorscheme tomorrow
